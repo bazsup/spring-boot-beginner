@@ -1,0 +1,20 @@
+!gradle/wrapper/gradle-wrapper.jar
+
+*.sw?
+.#*
+*#
+*~
+*.jar
+*.iws
+*.iml
+*.ipr
+
+.idea
+.gradle
+out
+bin
+target
+build
+
+### Configuration File ###
+src/main/resources/application.properties
